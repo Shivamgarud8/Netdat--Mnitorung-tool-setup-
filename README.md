@@ -101,7 +101,7 @@ Each missing piece means a blank section in your dashboard. No socket = no conta
 All the exact commands and files for Docker are in **DOCKER_INSTALL.md**.
 
 ---
-
+![jenkins](img/re2.png)
 ## 📊 What the Dashboard Looks Like
 
 Once you open `http://YOUR_IP:19999` you will see a dark dashboard with live graphs updating every second.
@@ -170,7 +170,7 @@ A few simple things that make a big difference:
 | Dashboard loads but shows old data | The Netdata service stopped — restart it with systemctl or docker restart |
 
 ---
-
+![jenkins](img/re3.png)
 ## 🔗 Links
 
 | Resource | Link |
