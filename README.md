@@ -1,4 +1,4 @@
- # 📡 Netdata Monitoring Setup
+ # 📡 Netdata Monitoring Setup.
 
 > Monitor your server in real-time — CPU, RAM, Disk, Network, and Docker containers.
 
