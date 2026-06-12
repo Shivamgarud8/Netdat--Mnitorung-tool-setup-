@@ -101,7 +101,7 @@ Each missing piece means a blank section in your dashboard. No socket = no conta
 All the exact commands and files for Docker are in **DOCKER_INSTALL.md**.
 
 ---
-![jenkins](img/re2.png)
+![jenkins](img/re.png)
 ## 📊 What the Dashboard Looks Like
 
 Once you open `http://YOUR_IP:19999` you will see a dark dashboard with live graphs updating every second.
