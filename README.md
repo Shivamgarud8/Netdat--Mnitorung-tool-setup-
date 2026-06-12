@@ -13,7 +13,7 @@ You install it once, open one port, and a live dashboard appears in your browser
 Think of it like a health monitor for your server — always running in the background, always watching, and screaming at you before something breaks.
 
 ---
-![jenkins](imag/re1.png)
+![jenkins](img/re1.png)
 ## 🖥️ What It Monitors
 
 | What | What You See |
